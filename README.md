@@ -29,6 +29,14 @@ ecat_master
 
 3. If needed, regenerate the modular robot model
 
+On one terminal run:
+
+```
+ec_client_main
+```
+
+And on another:
+
 ```
 RobotBuilder
 ```
@@ -40,6 +48,8 @@ e.g. on the URL put: pino-embedded:5000 or pino-embedded.local:5000
 NOTE: https is not supported at the moment
 
 Click on the "Generate Model" button and after few seconds you will see the modular robot recognized and this should match the real one.
+
+You can use th sliders on the top left corner to define a new homing configuration in joint space.
 
 After this, click on the "Deploy Robot" button which will generate all the files needed to execute the modular robot.
 
