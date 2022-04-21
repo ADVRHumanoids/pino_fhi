@@ -41,6 +41,8 @@ NOTE: https is not supported at the moment
 
 Click on the "Generate Model" button and after few seconds you will see the modular robot recognized and this should match the real one.
 
+You can use th sliders on the top left corner to define a new homing configuration in joint space.
+
 After this, click on the "Deploy Robot" button which will generate all the files needed to execute the modular robot.
 
 4. set the xbot2 config file based on the generated modular robot that will be in the following path
