@@ -29,12 +29,6 @@ ecat_master
 
 3. If needed, regenerate the modular robot model
 
-On one terminal run:
-
-```
-ec_client_main
-```
-
 And on another:
 
 ```
