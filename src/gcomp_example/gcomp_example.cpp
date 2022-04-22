@@ -81,7 +81,6 @@ void GCompExample::run()
 
     // compute non-linear torque term and set it as reference
     _model->computeNonlinearTerm(_tau);
-    jwarn("tau:{}", _tau);
     _robot->setEffortReference(_tau);
 
     _robot->move();
