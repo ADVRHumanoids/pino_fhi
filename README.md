@@ -73,6 +73,9 @@ xbot2-core --hw ec_imp
 xbot2-gui
 ```
 
+8. if needed on the Pilot PC you can visualize the robot on RViZ, downloading, compiling and sourcing the following package: https://github.com/ADVRHumanoids/modularbots_fraunhofer
+
+
 ## Pino examples
 
 We prepared a set of examples to run:
