@@ -15,6 +15,7 @@ Password will be communicated during the meeting.
 
 pino-embedded has the following software features:
 
+- IPv4 Address: 10.24.11.100
 - Operating system: Ubuntu 20.04 with 5.10.89-xeno-ipipe-3.1 Xenomai RT Kernel
 - Installed binary software: xbot2 suite for 20.04 + Xenomai
 - Examples from sources: this repo
